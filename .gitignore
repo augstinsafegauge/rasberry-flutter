@@ -30,7 +30,7 @@
 .packages
 .pub-cache/
 .pub/
-/build/
+
 test_goldens/failures/
 
 # Android related
